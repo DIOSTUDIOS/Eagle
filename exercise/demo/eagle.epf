@@ -1,0 +1,37 @@
+[Eagle]
+Version="07 05 00"
+Platform="Windows"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Button.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Chip.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Connector.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Crystal.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Display.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Frame.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Holes.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Jumper.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Logos.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Module.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Pin-Header.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Pin-Socket.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Power.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/RCLDA.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Senser.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Socket.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/Switch.lbr"
+UsedLibrary="C:/EAGLE-7.5.0/lbr/customake/TestPad.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="0 0 1439 928"
+State=1
+Number=0
+
+[Desktop]
+Screen="1440 960"
+Window="Win_1"
